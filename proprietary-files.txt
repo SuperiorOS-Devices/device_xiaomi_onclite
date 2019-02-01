@@ -1017,6 +1017,11 @@ vendor/lib/mediadrm/libwvdrmengine.so|53e578d72fbd6b2f56eed7529c15ec3818656ce3
 vendor/lib64/libwvhidl.so|a701374f4c0a6b6924b3f81c304505db48b3f9e1
 vendor/lib64/mediadrm/libwvdrmengine.so|9576cf6a0350a3b6fdc4982cede62c542f257011
 
+# Dirac - from Xiaomi
+vendor/lib/soundfx/libdirac.so|f63826a905b520fa524e4c1b147be7cf65240953
+vendor/lib/libDiracAPI_SHARED.so|42b49679d38eca93fead05ea06ddbdc8108fd4b1
+vendor/etc/diracmobile.config|d781cd6798a7481a8f7128d144abfb2b8794212d
+
 # Display-calibration
 vendor/etc/qdcm_calib_data_CSOT_otm1901a_video_mode_dsi_panel.xml
 vendor/etc/qdcm_calib_data_boe_hx8394f_video_mode_dsi_panel.xml
