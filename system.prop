@@ -88,3 +88,6 @@ ro.ril.disable.power.collapse=0
 
 # WFD
 persist.debug.wfd.enable=0
+
+# BPF
+ro.kernel.ebpf.supported=true
