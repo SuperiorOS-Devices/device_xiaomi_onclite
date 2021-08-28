@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_onclite.mk
+    $(LOCAL_DIR)/superior_onclite.mk

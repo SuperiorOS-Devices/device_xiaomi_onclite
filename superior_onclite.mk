@@ -13,12 +13,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 $(call inherit-product, device/xiaomi/onclite/device.mk)
 
 # Inherit some common Arrow stuff.
-$(call inherit-product, vendor/arrow/config/common.mk)
+$(call inherit-product, vendor/superior/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 720
-DEVICE_MAINTAINER := bibarub
+DEVICE_MAINTAINER := Abhay K Sanjay
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := arrow_onclite
+PRODUCT_NAME := superior_onclite
 PRODUCT_DEVICE := onclite
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 7
