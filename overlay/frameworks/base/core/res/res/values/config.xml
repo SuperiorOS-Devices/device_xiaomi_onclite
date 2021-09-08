@@ -435,6 +435,4 @@
     <!-- Corner radius of system progress bars -->
     <dimen name="config_progressBarCornerRadius">1000.0dip</dimen>
 
-    <!-- Whether device ignores the RSSNR signal implementation -->
-    <bool name="config_ignoreRssnrSignalLevel">true</bool>
 </resources>
