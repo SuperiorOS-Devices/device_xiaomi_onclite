@@ -434,8 +434,12 @@
 
     <!-- Do the battery/notification LEDs support pulsing?
          Used to decide if we show pulse settings -->
-   <bool name="config_ledCanPulse">true</bool>
+    <bool name="config_ledCanPulse">true</bool>
 
-   <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
-   <bool name="config_intrusiveBatteryLed">true</bool>
+    <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
+    <bool name="config_intrusiveBatteryLed">true</bool>
+
+    <!-- Specify custom blanking delay of the display -->
+    <integer name="config_screen_off_delay">0</integer>
+
 </resources>
