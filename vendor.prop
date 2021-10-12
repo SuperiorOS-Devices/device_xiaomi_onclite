@@ -66,3 +66,7 @@ ro.vendor.extension_library=libqti-perfd-client.so
 # Radio
 persist.vendor.radio.procedure_bytes=SKIP
 persist.vendor.radio.mt_sms_ack=30
+
+# SoC
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=MSM8953
